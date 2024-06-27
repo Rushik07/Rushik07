@@ -1,4 +1,4 @@
-## Hi there 👋, I am Rushik Patel
+Hi there 👋, I am Rushik Patel
 
 🔭 I’m currently pursuing IT-Solutions at Humber College
 🌱 I’m currently learning Data Analytics and Software Development
